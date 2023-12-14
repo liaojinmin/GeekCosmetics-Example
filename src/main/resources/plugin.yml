@@ -1,0 +1,4 @@
+name: GeekCosmetics-Example
+version: '${project.version}'
+main: me.neon.example.GeekCosmeticsExample
+api-version: 1.15
